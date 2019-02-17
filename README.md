@@ -1,4 +1,4 @@
-# Internship-Task
+# Text-Classification
 *First time with text!*
 
 A text classifier which predicts the class of a paragraph of text.
